@@ -15,6 +15,15 @@
   width: 60px;
 }
 
+.blog {
+  display: flex;
+  justify-content: center;
+}
+
+.blog-post {
+  max-width: 900px;
+}
+
 .blog-post > *,
 h1, 
 h2 {
