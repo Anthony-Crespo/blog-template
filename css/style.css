@@ -1,3 +1,7 @@
+:root {
+  font-family: 'Helvetica';
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -8,5 +12,26 @@
 
 .logo,
 .search {
-  width: 50px;
+  width: 60px;
+}
+
+.blog-post > *,
+h1, 
+h2 {
+  padding: 0 16px;
+}
+
+h1, h2 {
+  font-weight: normal;
+}
+
+.post-alert {
+  color: white;
+  background: #3AB98D;
+  padding: 16px;
+  
+}
+
+.post-alert p {
+  margin: 0;
 }
