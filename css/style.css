@@ -1,5 +1,7 @@
 :root {
   font-family: 'Helvetica';
+  color: #383838;
+  line-height: 1.5;
 }
 
 .header {
@@ -20,8 +22,8 @@
   justify-content: center;
 }
 
-.blog-post {
-  max-width: 900px;
+time {
+  color: #707070;
 }
 
 .blog-post > *,
@@ -46,6 +48,10 @@ h1, h2 {
 }
 
 @media (min-width: 900px) {
+
+  .blog-post {
+    max-width: 900px;
+  }
 
   .post-alert {
     padding: 0px;
