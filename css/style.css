@@ -44,3 +44,15 @@ h1, h2 {
 .post-alert p {
   margin: 0;
 }
+
+@media (min-width: 900px) {
+
+  .post-alert {
+    padding: 0px;
+    margin: 16px;
+  }
+
+  .post-alert p {
+    padding: 26px 16px;
+  }
+}
