@@ -1,5 +1,5 @@
 :root {
-  font-family: 'Helvetica';
+  font-family: 'HelveticaNeue', 'Helvetica', 'Arial';
   color: #383838;
   line-height: 1.5;
 }
@@ -19,7 +19,13 @@
 
 .blog {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blog-post:nth-last-child(n+2) {
+  margin-bottom: 30px;
+  border-bottom: dotted #3AB98D 6px;
 }
 
 time {
