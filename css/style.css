@@ -41,7 +41,7 @@
   top: calc(100% - 3px);
   right: 0;
   left: 0;
-  display: flex;
+  display: none; /* toggle to 'flex' */
   justify-content: center;
   align-items: center;
   padding: 10px 20px;
