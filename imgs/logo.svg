@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#3AB98D;}
 	.st1{fill:#FFFFFF;}
-	.st2{font-family:'HelveticaNeue';}
-	.st3{font-size:54px;}
 </style>
-<g>
-	<path class="st0" d="M64.43,75H10.57C4.73,75,0,70.27,0,64.43V10.57C0,4.73,4.73,0,10.57,0h53.85C70.27,0,75,4.73,75,10.57v53.85
-		C75,70.27,70.27,75,64.43,75z"/>
+<g id="Calque_1">
+	<g>
+		<path class="st0" d="M64.43,75H10.57C4.73,75,0,70.27,0,64.43V10.57C0,4.73,4.73,0,10.57,0h53.85C70.27,0,75,4.73,75,10.57v53.85
+			C75,70.27,70.27,75,64.43,75z"/>
+	</g>
 </g>
-<text transform="matrix(1 0 0 1 7.1914 54.3662)" class="st1 st2 st3">A_</text>
+<g id="Calque_2">
+	<path class="st1" d="M28,16h-6L7,54h5l4.5-11.5h16c1.17,3.83,2.33,7.67,3.5,11.5c2,0,4,0,6,0C37.33,41.33,32.67,28.67,28,16z"/>
+	<path class="st0" d="M25,20c2.17,6.17,4.33,12.33,6.5,18.5h-14C20,32.33,22.5,26.17,25,20z"/>
+	<rect x="42.5" y="58.5" class="st1" width="27" height="2.5"/>
+</g>
 </svg>
